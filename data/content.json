@@ -1,0 +1,43 @@
+{
+  "name": "INTELLIGENT SYSTEMS TECHNOLOGY",
+  "slogan": "Tecnología inteligente a tu alcance",
+  "about": "Con más de 5 años de experiencia en instalación de sistemas de videovigilancia, ofrecemos soluciones confiables y personalizadas para hogares y empresas.",
+  "contacts": {
+    "phone": "301632051",
+    "whatsapp": "301632051",
+    "email": "davidmonti16@hotmail.com"
+  },
+  "services": [{
+    "name": "Servidores",
+    "icon": "fa-solid fa-server"
+    },
+    {
+      "name": "Switches",
+      "icon": "fa-solid fa-tachograph-digital"
+    },
+    {
+      "name": "Cableado estructurado",
+      "icon": "fa-solid fa-ethernet"
+    },
+    {
+      "name": "Instalación y mantenimiento",
+      "icon": "fa-solid fa-screwdriver-wrench"
+    },
+    {
+      "name": "CCTV",
+      "icon": "fa-solid fa-video"
+    },
+    {
+      "name": "Alarmas",
+      "icon": "fa-solid fa-triangle-exclamation"
+    },
+    {
+      "name": "Radioenlaces",
+      "icon": "fa-solid fa-tower-cell"
+    },
+    {
+      "name": "Mesa de ayuda nivel 1, 2 y 3",
+      "icon": "fa-solid fa-laptop-medical"
+    }
+  ]
+}
